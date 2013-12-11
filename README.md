@@ -1,4 +1,4 @@
-webcomponents
-=============
+Web Components
+==============
 
-Combined polyfills to provide the web-components (platform) layer.
+Aggregated polyfills for the web-components platform. 
